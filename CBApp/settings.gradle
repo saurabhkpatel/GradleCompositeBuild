@@ -1,2 +1,4 @@
 rootProject.name='CBApp'
 include ':app'
+
+includeBuild "../lib/"

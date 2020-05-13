@@ -1,0 +1,2 @@
+rootProject.name='CBApp'
+include ':app'
